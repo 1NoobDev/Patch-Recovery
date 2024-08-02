@@ -9,7 +9,7 @@ on:
         default: 'https://transfer.sh/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://file.io/jqOj7JrMOKwI
+  RECOVERY_URL: https://file.io/ARgsxiuVBlsi
 
 jobs:
   build:

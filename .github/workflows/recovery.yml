@@ -9,7 +9,7 @@ on:
         default: 'https://transfer.sh/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://file.io/ARgsxiuVBlsi
+  RECOVERY_URL: https://wormhole.app/rzYOX#VgjOnewvLdv8w8cPxgW96A
 
 jobs:
   build:

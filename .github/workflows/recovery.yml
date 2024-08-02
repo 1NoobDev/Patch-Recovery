@@ -6,10 +6,10 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://we.tl/t-u2Gx2fPawm'
+        default: 'https://oshi.at/JVht'
 
 env:
-  RECOVERY_URL: https://we.tl/t-u2Gx2fPawm
+  RECOVERY_URL: https://oshi.at/JVht
 
 jobs:
   build:
